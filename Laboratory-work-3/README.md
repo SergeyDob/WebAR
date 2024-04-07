@@ -8,11 +8,9 @@
 
 ![image](https://github.com/SergeyDob/WebAR/assets/162588964/f00cb415-d6bb-4b2b-bc34-c9f9bebadd4b)
 
-![image](https://github.com/SergeyDob/WebAR/assets/162588964/f31e0020-09f1-4fbb-8cd9-9533cadd0aaa)
-
 Рис. 2 – Фрагмент екрану з рішення завдання 2.1.1.2 Створити нову Git-гілку з назвою «Laboratory-work-3». Перейти до роботи зі створеною гілкою.
 
-![image](https://github.com/SergeyDob/WebAR/assets/162588964/3e51a08a-7e2f-4ed3-90d1-b2d4dc8843c8)
+![image](https://github.com/SergeyDob/WebAR/assets/162588964/f31e0020-09f1-4fbb-8cd9-9533cadd0aaa)
 
 Рис. 3 – Фрагмент екрану з рішення завдання 2.1.1.3 Створити каталог з назвою «Laboratory-work-3». Перейти до каталогу.
 
